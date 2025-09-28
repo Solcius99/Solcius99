@@ -1,7 +1,9 @@
 
- ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0MGUxMGo4cmVrdHZzemxxM2l0ODQ3bDl1YzJpYWVqZGRxdGhlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2kqnzQ9xI3R64Vd0j/giphy.gif" width="55"/> Hi! Welcome to my profile! 
+<div style="text-align: center;"> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0MGUxMGo4cmVrdHZzemxxM2l0ODQ3bDl1YzJpYWVqZGRxdGhlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2kqnzQ9xI3R64Vd0j/giphy.gif" width="40"/> Hi! Welcome to my profile! 
 
-<img src="Christian Monsalve_Banner_en.png" alt="Christian Monsalve Banner">
+<img src="Christian Monsalve_Banner_en.png" alt="Christian Monsalve Banner" width="750"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chrisrmf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chrstnmnslv@gmail.com)
